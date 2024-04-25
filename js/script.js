@@ -4,7 +4,7 @@ let celsiusInput = document.querySelector('#celsius > input')
 let fahrenheitInput = document.querySelector('#fahrenheit > input')
 let kelvinInput = document.querySelector('#kelvin > input')
 
-let btn = document.querySelector('.button button')
+let btn = document.querySelector('button')
 
 
 function roundNumber(number){
